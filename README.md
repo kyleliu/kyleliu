@@ -1,4 +1,8 @@
-### Hi there 👋
+### About me
+
+- 😄 Full name Kyle Liu
+- 🔭 I’m currently studying on North China Electric Power University.
+- 📫 How to reach me: justfavme@gmail.com
 
 <!--
 **kyleliu/kyleliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
